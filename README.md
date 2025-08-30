@@ -6,8 +6,6 @@ It sells products in categories such as **Electronics, Grocery, Clothing, Home, 
 
 This project analyzes **sales, returns, and customer behavior** using **SQL** and **Power BI** to uncover insights that drive data-driven decision-making.  
 
----
-
 ## 📂 Dataset  
 The dataset includes:  
 - **Sales.csv** → Order details (date, region, store, product, revenue, profit)  
@@ -30,14 +28,7 @@ The dataset includes:
 2. **Category Performance** → Top-selling and high-profit categories  
 3. **Store-wise Analysis** → Store-level sales and profitability  
 4. **Returns Analysis** → Return rates and impact on revenue  
-5. **Customer Behavior** → Segmentation based on purchase patterns  
-
----
-
-## 📈 Dashboard Preview  
-*(Insert screenshots of your Power BI dashboards here)*  
-
----
+5. **Customer Behavior** → Segmentation based on purchase patterns   
 
 ## 🚀 Key Findings  
 - 📌 Electronics and Grocery are the top-performing categories.  
@@ -45,16 +36,13 @@ The dataset includes:
 - 📌 Certain stores outperform others due to better inventory management.  
 - 📌 Customer segmentation highlights that frequent buyers drive the majority of revenue.  
 
----
-
 ## 📎 Files in Repository  
 - `SQL_Queries/` → Contains SQL scripts for analysis  
 - `PowerBI_Dashboard.pbix` → Power BI dashboard file  
 - `Datasets/` → Raw datasets (Sales, Products, Stores, Inventory, Calendar)  
 - `README.md` → Project documentation  
 
----
-
 ## 📌 Conclusion  
 This project provides a comprehensive analysis of Omni Retail Pvt. Ltd.’s sales and customer behavior,  
 helping management identify growth opportunities, optimize inventory, and improve customer satisfaction.  
+
